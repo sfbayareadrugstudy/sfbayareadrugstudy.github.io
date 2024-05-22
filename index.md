@@ -1,11 +1,5 @@
 ---
-title: SFBA Drug Study
-tags: [formatting]
-keywords: drugs, home
-last_updated: May 22, 2024
-summary: "The homepage."
-sidebar: mydoc_sidebar
-permalink: mydoc_alerts
+title: Home
 ---
 
 # SFBA Drug Study

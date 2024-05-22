@@ -1,3 +1,13 @@
+---
+title: SFBA Drug Study
+tags: [formatting]
+keywords: drugs, home
+last_updated: May 22, 2024
+summary: "The homepage."
+sidebar: mydoc_sidebar
+permalink: mydoc_alerts
+---
+
 # SFBA Drug Study
 
 This is a set of studies surrounding drugs in high school students -- the supply chains for each drug, how it affects their high school lives

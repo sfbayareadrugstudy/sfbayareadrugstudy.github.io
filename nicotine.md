@@ -11,7 +11,7 @@ From most to least common:
 
 ## Supply Chain
 
-!(supply chain of nic)[img/nic-sc.png]
+!(supply chain of nic)[./img/nic-sc.png]
 
 ## Steps Parents Can Take
 

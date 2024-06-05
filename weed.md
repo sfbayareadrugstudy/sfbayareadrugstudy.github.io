@@ -2,6 +2,8 @@
 
 Marijuana, cannabis, or weed, is a lowly-addictive drug. It is normally smoked.
 
+Though the legalization of weed has made it much easier to access, it has also made it considerably safer, and eliminated the threat of synthetic marijuana.
+
 ## Forms
 
 * Cigars (blunts) - the most common form

@@ -2,6 +2,8 @@
 
 LSD, or acid, is a non addictive drug. Though chemically it is not addictive, there is a chance of getting addicted to the hallucogenic feeling of a high.
 
+LSD is still being investigated by the FBI. It is proposed to be synthesized in Northern California.
+
 ## Forms
 
 * Blotting paper, in squares - a paper that is divided into colorful squares, each square representing a dose

@@ -2,6 +2,8 @@
 title: Home
 ---
 
+Also check out [my blog detailing the creation of VAaS](https://vaas-creation.blogspot.com/)
+
 # SFBA Drug Study
 
 This is a set of studies surrounding drugs in high school students -- the supply chains for each drug, how it affects their high school lives

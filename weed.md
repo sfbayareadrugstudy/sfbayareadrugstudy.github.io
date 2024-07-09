@@ -18,4 +18,6 @@ Though the legalization of weed has made it much easier to access, it has also m
 
 Make sure your child knows the risks of taking CBD. If you suspect your child is taking weed, make sure it is clear that this drug use will not be tolerated.
 
+Ensure your child knows the risks of weed on the brain.
+
 If you suspect your child's friend is involved, contact their parents.

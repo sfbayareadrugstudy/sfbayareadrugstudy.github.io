@@ -6,4 +6,4 @@ Adderall is a pharmaceutical that is prescribed to ADHD. It has a high tendency 
 
 # Supply Chain
 
-![Supply Chain](./adderall.png)
+![Supply Chain](.img/add-sc.png)

@@ -21,8 +21,8 @@ This guide is meant for parents and educators and was created to prevent student
 * [Alcohol](./alcohol.html)
 * [Marijuana (weed)](./weed.html)
 * [LSD](./lsd.html)
-* [MDMA (Molly)](./mdma.html)
-* [Psilocybin (Magic Mushrooms, 'shrooms)](./shrooms.html)
-* [Adderall](./adderall)
-* [Oxycodone (Perc-30)](./perc30.html)
-* [Fentanyl](./fent.html)
+* [MDMA (Molly)](./mdma.html) - NOT DONE
+* [Psilocybin (Magic Mushrooms, 'shrooms)](./shrooms.html) - NOT DONE
+* [Adderall](./adderall.html)
+* [Oxycodone (Perc-30)](./perc30.html) - NOT DONE
+* [Fentanyl](./fent.html) - NOT DONE
